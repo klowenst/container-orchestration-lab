@@ -1,4 +1,4 @@
-# files for partner training class which include:
+# files for partner training class:
 
 * lab guide
 * yaml files for k8s lab
